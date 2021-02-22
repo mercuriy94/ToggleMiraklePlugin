@@ -1,0 +1,37 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/JavaTest">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1kbBCYZJ7PVSEY2J03yocyIFdXV">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-203.7148.57" />
+              <option name="buildTimestamp" value="1611627860930" />
+              <frame x="0" y="0" width="2560" height="1440" fullScreen="true" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1613686045488" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/TestDocker">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1nn1fFXc3JF2qdsJQ3lLTcZqUJO">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-201.8743.12.41.6953283" />
+              <option name="buildTimestamp" value="1604544115834" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1613978162012" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/AndroidStudioProjects/TestDocker" />
+        <option value="$USER_HOME$/IdeaProjects/JavaTest" />
+      </list>
+    </option>
+  </component>
+</application>

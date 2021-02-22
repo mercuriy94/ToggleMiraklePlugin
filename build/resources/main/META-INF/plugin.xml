@@ -1,0 +1,21 @@
+<idea-plugin>
+  <version>1.0-SNAPSHOT</version>
+  <change-notes>
+      Add change notes here.&lt;br&gt;
+      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+  <idea-version since-build="201.6668" until-build="201.*"/>
+  <id>com.mercuriy94.ToggleMiraklePlugin</id>
+  <name>Toggle Mirakle</name>
+  <vendor url="mercuriy94@gmail.com">My email</vendor>
+  <description>
+      Demonstrates implementing Action and Action Group patterns.&lt;br&gt; Adds entries to the Tools menu.
+    </description>
+  <depends>com.intellij.modules.platform</depends>
+  <depends>com.intellij.modules.java</depends>
+  <depends>com.intellij.properties</depends>
+  <actions>
+    <action id="com.mercuriy94.ToggleMirakleAction" class="com.mercuriy94.ToggleMirakleAction" text="Toggle Mirakle" description="Click me please" icon="PluginIcons.MIRAKLE_ON">
+      <add-to-group group-id="ToolbarRunGroup" anchor="first"/>
+    </action>
+  </actions>
+</idea-plugin>

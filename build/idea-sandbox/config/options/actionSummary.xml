@@ -1,0 +1,24 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="1" last="1613687418086" />
+      </entry>
+      <entry key="EditorPaste">
+        <ActionSummary times="1" last="1613687031523" />
+      </entry>
+      <entry key="MakeGradleProject">
+        <ActionSummary times="6" last="1613687398485" />
+      </entry>
+      <entry key="SaveAll">
+        <ActionSummary times="1" last="1613687039102" />
+      </entry>
+      <entry key="com.intellij.ide.ReopenProjectAction">
+        <ActionSummary times="1" last="1613686956031" />
+      </entry>
+      <entry key="com.mercuriy94.ToggleMirakleAction">
+        <ActionSummary times="32" last="1613978176574" />
+      </entry>
+    </data>
+  </component>
+</application>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="click" path="ActionManager" hit="Click me please" />
+    <option name="me" path="ActionManager" hit="Click me please" />
+    <option name="please" path="ActionManager" hit="Click me please" />
+    <option name="mirakle" path="ActionManager" hit="Toggle Mirakle" />
+    <option name="toggle" path="ActionManager" hit="Toggle Mirakle" />
+  </configurable>
+</options>
+

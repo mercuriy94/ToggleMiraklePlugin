@@ -1,0 +1,29 @@
+22/02 10:16:20 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Process started with '--ide-token /Users/mercuriy94/IdeaProjects/tmirakleplugin/build/idea-sandbox/system/token --recorder FUS --files /Users/mercuriy94/IdeaProjects/tmirakleplugin/build/idea-sandbox/system/event-log/3610-4b2f-9e45-683515a378ca-201.8743.12.41.6953283-release.log:/Users/mercuriy94/IdeaProjects/tmirakleplugin/build/idea-sandbox/system/event-log/7439-44b6-a3e8-8004d46abdb9-201.8743.12.41.6953283-release.log:/Users/mercuriy94/IdeaProjects/tmirakleplugin/build/idea-sandbox/system/event-log/05b9-4235-830b-b1f792324051-201.8743.12.41.6953283-release.log:/Users/mercuriy94/IdeaProjects/tmirakleplugin/build/idea-sandbox/system/event-log/0385-4452-98b2-876b5b7c183e-201.8743.12.41.6953283-release.log:/Users/mercuriy94/IdeaProjects/tmirakleplugin/build/idea-sandbox/system/event-log/3793-4e10-b63a-09c43519d42c-201.8743.12.41.6953283-release.log --device 05092026777779b-25d2-4f39-a6a9-f2239998246c --bucket 59 --url  --product AI --user-agent Android Studio/201.8743.12.41.6953283'
+22/02 10:16:20 INFO  com.intellij.internal.statistic.uploader.events.ExternalEventsLogger - 1613978180933 STARTED
+22/02 10:16:20 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - IDE token file: /Users/mercuriy94/IdeaProjects/tmirakleplugin/build/idea-sandbox/system/token
+22/02 10:16:20 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Waiting for 2000ms for IDE to close. Attempt #0
+22/02 10:16:22 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Start uploading...
+22/02 10:16:22 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - {url:, product:AI, userAgent:Android Studio/201.8743.12.41.6953283(External), internal:false, isTest:false}
+22/02 10:16:22 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - {recorder:FUS, files:/Users/mercuriy94/IdeaProjects/tmirakleplugin/build/idea-sandbox/system/event-log/3610-4b2f-9e45-683515a378ca-201.8743.12.41.6953283-release.log:/Users/mercuriy94/IdeaProjects/tmirakleplugin/build/idea-sandbox/system/event-log/7439-44b6-a3e8-8004d46abdb9-201.8743.12.41.6953283-release.log:/Users/mercuriy94/IdeaProjects/tmirakleplugin/build/idea-sandbox/system/event-log/05b9-4235-830b-b1f792324051-201.8743.12.41.6953283-release.log:/Users/mercuriy94/IdeaProjects/tmirakleplugin/build/idea-sandbox/system/event-log/0385-4452-98b2-876b5b7c183e-201.8743.12.41.6953283-release.log:/Users/mercuriy94/IdeaProjects/tmirakleplugin/build/idea-sandbox/system/event-log/3793-4e10-b63a-09c43519d42c-201.8743.12.41.6953283-release.log}
+22/02 10:16:22 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - {device:05092026777779b-25d2-4f39-a6a9-f2239998246c, bucket:59}
+22/02 10:16:23 WARN  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - 
+org.apache.http.client.ClientProtocolException
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:187)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:108)
+	at com.intellij.internal.statistic.connect.SettingsConnectionService.readSettings(SettingsConnectionService.java:71)
+	at com.intellij.internal.statistic.connect.SettingsConnectionService.getSettingValue(SettingsConnectionService.java:114)
+	at com.intellij.internal.statistic.connect.SettingsConnectionService.getServiceUrl(SettingsConnectionService.java:107)
+	at com.intellij.internal.statistic.eventLog.EventLogStatisticsService.send(EventLogStatisticsService.java:75)
+	at com.intellij.internal.statistic.eventLog.EventLogStatisticsService.send(EventLogStatisticsService.java:51)
+	at com.intellij.internal.statistic.uploader.EventLogUploader.execute(EventLogUploader.java:80)
+	at com.intellij.internal.statistic.uploader.EventLogUploader.main(EventLogUploader.java:21)
+Caused by: org.apache.http.ProtocolException: Target host is not specified
+	at org.apache.http.impl.conn.DefaultRoutePlanner.determineRoute(DefaultRoutePlanner.java:71)
+	at org.apache.http.impl.client.InternalHttpClient.determineRoute(InternalHttpClient.java:125)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	... 9 more
+22/02 10:16:23 INFO  com.intellij.internal.statistic.uploader.events.ExternalEventsLogger - 1613978183257 ERROR loading.config.failed org.apache.http.client.ClientProtocolException
+22/02 10:16:23 INFO  com.intellij.internal.statistic.uploader.events.ExternalEventsLogger - 1613978183258 FINISHED ERROR_IN_CONFIG
+22/02 10:16:23 TRACE com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Uploading finished with ERROR_IN_CONFIG
+22/02 10:16:23 TRACE com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - ERROR: unknown Statistics Service URL.

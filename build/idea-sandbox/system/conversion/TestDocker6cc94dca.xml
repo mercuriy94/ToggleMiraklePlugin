@@ -1,0 +1,88 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-native-run-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_test_core_1_3_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/workspace.xml" timestamp="1613687419000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_4_10.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_2_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_3_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_navigation_navigation_common_ktx_2_2_2_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_2_0_4.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_navigation_navigation_fragment_ktx_2_2_2_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_3_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/modules/app/TestDocker.app.iml" timestamp="1613644275000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_collection_collection_ktx_1_1_0.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_2_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_ktx_2_2_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_navigation_navigation_ui_ktx_2_2_2_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/modules.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/compiler.xml" timestamp="1613685796000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/gradle.xml" timestamp="1612011259000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__junit_junit_4_13_2.xml" timestamp="1613644275000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_2_2_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_4_10.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_navigation_navigation_runtime_ktx_2_2_2_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_fragment_fragment_ktx_1_2_4_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_activity_activity_1_1_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_navigation_navigation_fragment_2_2_2_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_core_core_ktx_1_3_2_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_android_1_3_0.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_ktx_2_2_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_2_0.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_core_core_1_3_2_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/jarRepositories.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_navigation_navigation_common_2_2_2_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_navigation_navigation_runtime_2_2_2_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_test_monitor_1_3_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/modules/TestDocker.iml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_fragment_fragment_1_2_4_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_ktx_2_2_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_activity_activity_ktx_1_1_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_2_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_0_4_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_1_3_0.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/misc.xml" timestamp="1613685796000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_2_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_navigation_navigation_ui_2_2_2_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_2_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__junit_junit_4_12.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_0_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_2_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_test_runner_1_3_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_1_0_aar.xml" timestamp="1612011186000" />
+    <file path="/Users/mercuriy94/AndroidStudioProjects/TestDocker/.idea/libraries/Gradle__com_google_android_material_material_1_2_1_aar.xml" timestamp="1612011186000" />
+  </project-files>
+</conversion>

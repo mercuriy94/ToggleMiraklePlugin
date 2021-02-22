@@ -1,0 +1,105 @@
+{
+  "appInfo" : {
+    "build" : "203.7148.57",
+    "buildDate" : "Tue, 26 Jan 2021 05:24:25 +0300",
+    "productCode" : "IC",
+    "generated" : "Thu, 18 Feb 2021 23:47:51 +0300",
+    "os" : "macOS 10.16",
+    "runtime" : "JetBrains s.r.o. 11.0.9.1 11.0.9.1+11-b1145.77"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 536870912,
+    "numberOfProcessors" : 16,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "JavaTest",
+    "numberOfFileProviders" : 8,
+    "totalNumberOfFiles" : 53012,
+    "totalNumberOfUpToDateFiles" : 52920,
+    "times" : {
+      "totalUpdatingTime" : "3 s 823 ms",
+      "indexingTime" : "586 ms",
+      "pushPropertiesTime" : "15 ms",
+      "updatingStart" : "Thu, 18 Feb 2021 23:47:47 +0300",
+      "updatingEnd" : "Thu, 18 Feb 2021 23:47:51 +0300",
+      "wasInterrupted" : false
+    },
+    "numberOfIndexingThreads" : 4,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "CLASS",
+      "partOfTotalIndexingTime" : "100,0%",
+      "partOfTotalContentLoadingTime" : "100,0%",
+      "totalNumberOfFiles" : 92,
+      "totalFilesSize" : "199,7 kB",
+      "indexingSpeed" : "437,71 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "JDK 11",
+        "numberOfFiles" : 92,
+        "totalFilesSize" : "199,7 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100,0%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : "88,7%",
+      "totalNumberOfFiles" : 92,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "199,7 kB",
+      "indexingSpeed" : "493,57 kB/s"
+    }, {
+      "indexId" : "bytecodeAnalysis",
+      "partOfTotalIndexingTime" : "8,1%",
+      "totalNumberOfFiles" : 92,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "199,7 kB",
+      "indexingSpeed" : "5,42 MB/s"
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+      "partOfTotalIndexingTime" : "2,5%",
+      "totalNumberOfFiles" : 92,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "199,7 kB",
+      "indexingSpeed" : "17,56 MB/s"
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 92,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "199,7 kB",
+      "indexingSpeed" : "58,16 MB/s"
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "JDK 11",
+      "totalNumberOfFiles" : 92,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "580 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 92,
+        "totalFilesSize" : "199,7 kB",
+        "partOfTotalIndexingTime" : "100,0%",
+        "partOfTotalContentLoadingTime" : "100,0%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 92,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "88,7%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 92,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "8,1%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 92,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2,5%"
+      } ],
+      "fastIndexers" : [ "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex" ]
+    } ]
+  }
+}

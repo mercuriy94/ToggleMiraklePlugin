@@ -1,0 +1,26 @@
+<idea-plugin>
+    <id>com.mercuriy94.ToggleMiraklePlugin</id>
+    <name>Toggle Mirakle</name>
+    <vendor url="mercuriy94@gmail.com">My email</vendor>
+
+    <description><![CDATA[
+      Demonstrates implementing Action and Action Group patterns.<br> Adds entries to the Tools menu.
+    ]]></description>
+
+    <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+    <depends>com.intellij.modules.java</depends>
+    <depends>com.intellij.properties</depends>
+
+    <actions>
+        <!-- Add your actions here -->
+        <action id="com.mercuriy94.ToggleMirakleAction"
+                class="com.mercuriy94.ToggleMirakleAction"
+                text="Toggle Mirakle"
+                description="Click me please"
+                icon="PluginIcons.MIRAKLE_ON">
+            <add-to-group group-id="ToolbarRunGroup" anchor="first"/>
+        </action>
+    </actions>
+</idea-plugin>
