@@ -34,6 +34,10 @@ patchPluginXml {
       <em>most HTML tags may be used</em>"""
 }
 
+runIde {
+    jvmArgs '-Xmx4G'
+}
+
 configure([compileKotlin, compileTestKotlin]) {
     kotlinOptions {
         jvmTarget = "1.8"
