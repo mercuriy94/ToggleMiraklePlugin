@@ -23,4 +23,9 @@
             <add-to-group group-id="ToolbarRunGroup" anchor="first"/>
         </action>
     </actions>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <applicationService serviceInterface="res.StringResourceService"
+                        serviceImplementation="res.StringResourceServiceImpl"/>
+    </extensions>
 </idea-plugin>
