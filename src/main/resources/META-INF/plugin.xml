@@ -25,7 +25,6 @@
     </actions>
 
     <extensions defaultExtensionNs="com.intellij">
-        <applicationService serviceInterface="res.StringResourceService"
-                        serviceImplementation="res.StringResourceServiceImpl"/>
+        <postStartupActivity implementation="com.mercuriy94.startup.ToggleMirakleStartup"/>
     </extensions>
 </idea-plugin>
